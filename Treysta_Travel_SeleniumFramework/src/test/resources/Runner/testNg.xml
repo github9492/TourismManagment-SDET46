@@ -3,15 +3,7 @@
 <suite name="Suite">
   <test thread-count="5" name="Test">
     <classes>
-      <class name="practiceSelenium.testNgPracticeClassTest"/>
-      <class name="practiceSelenium.testNgPracticeClassTest1"/>
-    </classes>
-  </test> <!-- Test -->
-  <test thread-count="5" name="Test1">
-    <classes>
-    
-      <class name="practiceSelenium.testNgPracticeClassTest"/>
-     
+      <class name="practiceSelenium.SendingDataFromCMD"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
